@@ -5,7 +5,6 @@ Makefile.PL
 MANIFEST
 README
 README.md
-script/main.pl
 t/00-load.t
 t/diskchk.t
 t/manifest.t
